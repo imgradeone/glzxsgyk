@@ -13,10 +13,10 @@ module.exports = {
       logo: '/logo.png',
       navbar: [
         { text: '主页', link: '/' },
-        { text: '作品', link: '/works' },
-        { text: '关于', link: '/about' },
+        { text: '作品', link: '/works.md' },
+        { text: '关于', link: '/about.md' },
       ],
-      notFound: ['抱歉，我们好像走远了......', '也许 imgradeone 这个鸽子又在咕咕咕了......'],
+      notFound: ['抱歉，我们好像走远了......'],
       backToHome: '返回主页',
     },
   }
