@@ -16,6 +16,8 @@ actions:
     type: secondary
 ---
 
+这里是桂林中学 时光驿客社团的官方网站！
+
 [![](/cards/bili.png)](https://space.bilibili.com/378560080/)
 
 ![](/cards/qq.png)
