@@ -7,8 +7,8 @@ module.exports = {
         ['meta', { name: 'theme-color', content: '#f57005' }],
         ['link', { rel: 'icon', href: '/logo.png' }],
         ['meta', { name: 'keywords', content: '桂林中学,桂林中学社团,摄影,摄影社团,高中社团,视频剪辑,社团,时光驿客' }]
-      ],
-  
+    ],
+
     themeConfig: {
       logo: '/logo.png',
       navbar: [

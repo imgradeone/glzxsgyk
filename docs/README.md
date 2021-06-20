@@ -9,7 +9,7 @@ actions:
     link: /introduce.md
     type: primary
   - text: 查看作品列表
-    link: /works.md
+    link: /works/
     type: secondary
   - text: 关于我们
     link: /about.md

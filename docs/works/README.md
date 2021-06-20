@@ -8,7 +8,12 @@ title: 作品
 
 ## 精选
 
-先等 imgradeone 学会整内置 Vue 组件先（（（
+![](/featured/coincidance.png)
+![](/featured/gaosan2021.png)
+![](/featured/gaosan2020.png)
+![](/featured/2020xyh.png)
+
+目前只能这样了，先等 imgradeone 学会整内置 Vue 组件先（（（
 
 ## 2021
 - 桂林中学 2021 高三纪实
