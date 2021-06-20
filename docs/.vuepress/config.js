@@ -16,6 +16,7 @@ module.exports = {
         { text: '作品', link: '/works/' },
         { text: '关于', link: '/about.md' },
       ],
+      darkMode: false,
       notFound: ['抱歉，我们好像走远了......'],
       backToHome: '返回主页',
     },

@@ -8,16 +8,17 @@ title: 作品
 
 ## 精选
 
-![](/featured/coincidance.png)
-![](/featured/gaosan2021.png)
+[![](/featured/coincidance.png)](/works/coincidance.md)
+[![](/featured/gaosan2021.png)](/works/gaosan2021.md)
 ![](/featured/gaosan2020.png)
 ![](/featured/2020xyh.png)
 
 目前只能这样了，先等 imgradeone 学会整内置 Vue 组件先（（（
 
 ## 2021
-- 桂林中学 2021 高三纪实
-- 桂林中学 2021 年元旦联欢
+- [桂林中学 2021 高三纪实](/works/gaosan2021.md)
+- 航拍 · 带你看桂林中学临桂校区
+- [桂林中学 2021 年元旦联欢](/works/2021-yuandan.md)
 - 桂林中学 2020 级军训掠影
 - 桂林中学 2020 校运会纪实
 
@@ -32,7 +33,7 @@ title: 作品
 - 桂林中学 2020 元旦迎新文艺汇演 回播
 
 ## 2019
-- Coincidance 抖肩舞桂林中学版 看看与往常不同的桂中人
+- [Coincidance 抖肩舞桂林中学版 看看与往常不同的桂中人](/works/coincidance.md)
 - 桂林市桂林中学 2019 年校园之星才艺展示大赛个人场初赛
 - 桂林市桂林中学 2019 年国庆快闪活动视频 学生会主办
 - 军训冲冲冲 2019 级军训 Vlog #2

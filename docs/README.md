@@ -20,6 +20,6 @@ actions:
 
 [![](/cards/bili.png)](https://space.bilibili.com/378560080/)
 
-![](/cards/qq.png)
+[![](/cards/qq.png)](https://3020148211.qzone.qq.com)
 
 [![](/cards/fuzhong.png)](https://space.bilibili.com/695009786/)
