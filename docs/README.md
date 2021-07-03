@@ -5,18 +5,15 @@ footer: © 2021 桂林中学 时光驿客 | 由 <a href="https://imgradeone.com"
 footerHtml: true
 
 actions:
-  - text: 宣传视频
-    link: /introduce.md
-    type: primary
-  - text: 查看作品列表
+  - text: 作品列表
     link: /works/
-    type: secondary
+    type: primary
   - text: 关于我们
     link: /about.md
     type: secondary
 ---
 
-这里是桂林中学 时光驿客社团的官方网站！
+<iframe src="//player.bilibili.com/player.html?aid=63643626&bvid=BV154411D7fT&cid=110509244&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="375"> </iframe>
 
 [![](/cards/bili.png)](https://space.bilibili.com/378560080/)
 
