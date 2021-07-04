@@ -23,7 +23,7 @@ title: 桂林中学 2021 高三纪实
 
 [在 bilibili 观看](https://www.bilibili.com/video/BV1s54y1G7i9)
 
-[在抖音观看（由桂中官方发布）](https://v.douyin.com/eCQm76C/)
+[在抖音观看（由桂中官方发布）](https://www.douyin.com/video/6971835515813268749)
 
 您也可以在 [QQ 空间](https://3020148211.qzone.qq.com) 观看。
 

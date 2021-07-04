@@ -8,6 +8,7 @@ title: 作品
 
 ## 精选
 
+[![](/featured/bainianduihua.png)](/works/bainianduihua.md)
 [![](/featured/coincidance.png)](/works/coincidance.md)
 [![](/featured/gaosan2021.png)](/works/gaosan2021.md)
 ![](/featured/gaosan2020.png)
@@ -16,6 +17,7 @@ title: 作品
 目前只能这样了，先等 imgradeone 学会整内置 Vue 组件先（（（
 
 ## 2021
+- [桂林中学建党百年特别版宣传片 —— 百年对话，府学传承](/works/bainianduihua.md)
 - [桂林中学 2021 高三纪实](/works/gaosan2021.md)
 - 航拍 · 带你看桂林中学临桂校区
 - [桂林中学 2021 年元旦联欢](/works/2021-yuandan.md)
