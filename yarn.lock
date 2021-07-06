@@ -3706,10 +3706,10 @@ vue@^3.0.0, vue@^3.1.4:
     "@vue/runtime-dom" "3.1.4"
     "@vue/shared" "3.1.4"
 
-vuepress@^2.0.0-beta.20:
+vuepress@^2.0.0-beta.21:
   version "2.0.0-beta.21"
-  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.21.tgz#2f0637a02ce5800dc4e8866372848159b60a4942"
-  integrity sha512-iskuxiQKVhUn6wE2zcLO4Wsm6cONiYwU+JC7lE8LYo45iXp7pbkQfSn/wFQCz6bDS4uIT5alKvcHcvFtOWEhHg==
+  resolved "https://registry.nlark.com/vuepress/download/vuepress-2.0.0-beta.21.tgz?cache=0&sync_timestamp=1625389636570&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fvuepress%2Fdownload%2Fvuepress-2.0.0-beta.21.tgz#2f0637a02ce5800dc4e8866372848159b60a4942"
+  integrity sha1-LwY3oCzlgA3E6IZjcoSBWbYKSUI=
   dependencies:
     "@vuepress/bundler-webpack" "2.0.0-beta.21"
     "@vuepress/cli" "2.0.0-beta.21"
