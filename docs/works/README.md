@@ -14,12 +14,10 @@ title: 作品
 ![](/featured/gaosan2020.png)
 ![](/featured/2020xyh.png)
 
-目前只能这样了，先等 imgradeone 学会整内置 Vue 组件先（（（
-
 ## 2021
 - [桂林中学建党百年特别版宣传片 —— 百年对话，府学传承](/works/bainianduihua.md)
 - [桂林中学 2021 高三纪实](/works/gaosan2021.md)
-- 航拍 · 带你看桂林中学临桂校区
+- [航拍 · 带你看桂林中学临桂校区](https://www.douyin.com/video/6970465438706715941)
 - [桂林中学 2021 年元旦联欢](/works/2021-yuandan.md)
 - [桂林中学 2020 级军训掠影](https://www.bilibili.com/video/BV1UK4y1n7it)
 - [桂林中学 2020 校运会纪实](https://www.bilibili.com/video/BV1254y1W7Kx)
