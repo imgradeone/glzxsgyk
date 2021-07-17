@@ -1,7 +1,7 @@
 module.exports = {
     lang: 'zh-CN',
     title: '桂林中学 时光驿客',
-    description: '致力于制作更高品质视频的高中社团',
+    description: '影像记录时光 记忆由你塑造',
   
     head: [
         ['meta', { name: 'theme-color', content: '#f57005' }],
@@ -14,7 +14,7 @@ module.exports = {
       navbar: [
         { text: '主页', link: '/' },
         { text: '作品', link: '/works/' },
-        { text: '关于', link: '/about.md' },
+        { text: '关于', link: '/about' },
       ],
       darkMode: false,
       notFound: ['抱歉，我们好像走远了......'],
