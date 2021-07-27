@@ -14,7 +14,7 @@ module.exports = {
       navbar: [
         { text: '主页', link: '/' },
         { text: '作品', link: '/works/' },
-        { text: '关于', link: '/about' },
+        { text: '关于', link: '/about.html' },
       ],
       darkMode: false,
       notFound: ['抱歉，我们好像走远了......'],
