@@ -32,7 +32,7 @@ title: 百年对话，府学传承
 ## 制作人员
 
 ::: warning 提示
-当前制作人员名单中，部分制作人员的名字有误。
+当前制作人员名单中，部分制作人员的名字有误。如果您知道正确的制作人员名单，请邮件联系 [imgradeone@outlook.com](mailto:imgradeone@outlook.com)。
 :::
 
 **总策划：** 谢子杰 颜文博 李恒毅
