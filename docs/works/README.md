@@ -18,6 +18,7 @@ title: 作品
 - [桂林中学 2021 级新生军训航拍记录](https://www.douyin.com/video/7005527298761919752)
 - [桂林中学建党百年特别版宣传片 —— 百年对话，府学传承](/works/bainianduihua.md)
 - [桂林中学 2021 高三纪实](/works/gaosan2021.md)
+- [桂中男篮•挥洒汗水，感受激情](https://www.douyin.com/video/6972934342603574542)
 - [航拍 · 带你看桂林中学临桂校区](https://www.douyin.com/video/6970465438706715941)
 - [桂林中学 2021 年元旦联欢](/works/2021-yuandan.md)
 - [桂林中学 2020 级军训掠影](https://www.bilibili.com/video/BV1UK4y1n7it)
