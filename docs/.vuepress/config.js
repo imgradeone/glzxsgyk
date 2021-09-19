@@ -19,5 +19,7 @@ module.exports = {
       darkMode: false,
       notFound: ['抱歉，我们好像走远了......'],
       backToHome: '返回主页',
+      contributors: false,
+      lastUpdatedText: "上次更新于",
     },
   }
