@@ -19,7 +19,7 @@ sidebar: false
 > —— [《桂林晚报》2020 年 8 月 5 日 第 5 版](http://epaper.guilinlife.com/glwb/html/2020-08/05/content_1758933.htm?div=-1)
 
 ## 关注我们
-- QQ：[3080148211](https://3020148211.qzone.qq.com)
+- QQ：[3020148211](https://3020148211.qzone.qq.com)
 
 - 哔哩哔哩：[@桂中-时光驿客](https://space.bilibili.com/378560080/)  
 
