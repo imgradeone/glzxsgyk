@@ -13,8 +13,6 @@ sidebar: false
 
 学校官方抖音号的部分视频我们也参与制作。在学校的支持与帮助下，我们正在组建校园电视台，组建成功以后，我们有更加优良的设备，可以学到更多的知识。
 
-即使不加入社团，也请记得关注。
-
 > 桂林中学的社团活动丰富多彩，国学社是全国中学生优秀社团，街舞社在全市中学里小有名气，时光驿客做出来的视频不亚于专业团队。  
 > —— [《桂林晚报》2020 年 8 月 5 日 第 5 版](http://epaper.guilinlife.com/glwb/html/2020-08/05/content_1758933.htm?div=-1)
 
@@ -34,6 +32,8 @@ sidebar: false
 - [imgradeone](https://github.com/imgradeone) - 2020 校运会纪实剪辑、网站站长
 
 本站使用 [VuePress 2.0](https://v2.vuepress.vuejs.org/zh/) 构建，并托管于 [Vercel](https://vercel.com)。
+
+特别感谢 [xiezijie4693](https://github.com/xiezijie4693) 为网站做出的提案。
 
 ## 其他社团宣传
 
