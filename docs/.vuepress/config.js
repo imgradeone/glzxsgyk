@@ -6,7 +6,8 @@ module.exports = {
     head: [
         ['meta', { name: 'theme-color', content: '#f57005' }],
         ['link', { rel: 'icon', href: '/logo.png' }],
-        ['meta', { name: 'keywords', content: '桂林中学时光驿客,桂林中学社团,桂林中学,高中社团,摄影,摄影社团,视频剪辑,社团,时光驿客' }]
+        ['meta', { name: 'keywords', content: '桂林中学时光驿客,桂林中学社团,桂林中学,高中社团,摄影,摄影社团,视频剪辑,社团,时光驿客' }],
+        ['script', {'data-domain': "glzxsgyk.com", src: "https://stat.imgradeone.com/js/plausible.js"}],
     ],
 
     themeConfig: {
