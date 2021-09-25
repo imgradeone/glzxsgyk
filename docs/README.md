@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 tagline: "三年时光 只为每一个桂中人记录"
-footer: © 2021 桂林中学 时光驿客 | 由 <a href="https://imgradeone.com" target="_blank">imgradeone</a> 维护 | 托管于 <a href="https://vercel.com" target="_blank">▲ Vercel</a> | <a href="http://www.glzx.net" target="_blank">桂林中学官网</a>
+footer: © 2021 桂林中学 时光驿客 | 由 <a href="https://imgradeone.com" target="_blank">imgradeone</a> 维护 | 托管于 <a href="https://vercel.com" target="_blank">▲ Vercel</a> | <a href="http://www.glzx.net" target="_blank">桂林中学官网</a><br><a href="https://stat.imgradeone.com/glzxsgyk.com" target="_blank">网站访问统计信息</a>
 footerHtml: true
 
 actions:
