@@ -15,6 +15,7 @@ title: 作品
 ![](/featured/2020xyh.png)
 
 ## 2021
+- [2024 届社会实践基地纪实](https://www.bilibili.com/video/BV1Hg411w7Jq)
 - [桂林中学 2021 级新生军训航拍记录](https://www.douyin.com/video/7005527298761919752)
 - [桂林中学建党百年特别版宣传片 —— 百年对话，府学传承](/works/bainianduihua.md)
 - [桂林中学 2021 高三纪实](/works/gaosan2021.md)
