@@ -21,7 +21,7 @@ sidebar: false
 
 - 哔哩哔哩：[@桂中-时光驿客](https://space.bilibili.com/378560080/)  
 
-- 抖音：[@桂林市桂林中学](https://www.douyin.com/user/MS4wLjABAAAAiJPzu3OXepzsLYkJpaRcusbHumfpGp9yjiZ6TR1mRUY)（学校官号，抖音号 glzx1905） | [@桂林中学时光驿客](https://www.douyin.com/user/MS4wLjABAAAAmstzN5xTosFAxGRUOT2P-6JNrMOWIJ0yLr3EcOObrAw)（社团官号，抖音号 glzxsgyk）
+- 抖音：[@桂林市桂林中学](https://www.douyin.com/user/MS4wLjABAAAAiJPzu3OXepzsLYkJpaRcusbHumfpGp9yjiZ6TR1mRUY)（学校官号，抖音号 glzx1905）
 
 - ~~微博（已长期不运营）：[@桂林中学时光驿客](https://weibo.com/u/6716656101)~~
 
