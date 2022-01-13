@@ -14,6 +14,9 @@ title: 作品
 ![](/featured/gaosan2020.png)
 ![](/featured/2020xyh.png)
 
+## 2022
+- [共商天下大计，培育世界眼光 —— 桂林中学模拟联合国大会精彩回顾](https://www.douyin.com/video/7051123966953524516)
+
 ## 2021
 - [2024 届社会实践基地纪实](https://www.bilibili.com/video/BV1Hg411w7Jq)
 - [桂林中学 2021 级新生军训航拍记录](https://www.douyin.com/video/7005527298761919752)
