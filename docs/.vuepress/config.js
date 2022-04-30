@@ -1,3 +1,5 @@
+const { defaultTheme } = require('vuepress')
+
 module.exports = {
     lang: 'zh-CN',
     title: '桂林中学 时光驿客',
@@ -10,7 +12,7 @@ module.exports = {
         ['script', {'data-domain': "glzxsgyk.com", src: "https://stat.imgradeone.com/js/plausible.js"}],
     ],
 
-    themeConfig: {
+    theme: defaultTheme({
       logo: '/logo.png',
       navbar: [
         { text: '主页', link: '/' },
@@ -22,5 +24,5 @@ module.exports = {
       backToHome: '返回主页',
       contributors: false,
       lastUpdatedText: "上次更新于",
-    },
+    })
   }
