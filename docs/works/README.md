@@ -15,6 +15,8 @@ title: 作品
 ![](/featured/2020xyh.png)
 
 ## 2022
+- [桂林中学 2022 春季运动会纪实](https://www.douyin.com/video/7089672545477217566)
+- [桂林中学 2022 迎春开跑纪实](https://www.douyin.com/video/7089627877867638053)
 - [共商天下大计，培育世界眼光 —— 桂林中学模拟联合国大会精彩回顾](https://www.douyin.com/video/7051123966953524516)
 
 ## 2021
